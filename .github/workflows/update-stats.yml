@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=phowdecayed&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=888888
+          options: username=phowdecayed&show_icons=true&include_all_commits=true&theme=dark&bg_color=00000000&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=888888
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=phowdecayed&show_icons=true&theme=light&bg_color=00000000&hide_border=true&title_color=1E1E1E&icon_color=1E1E1E&text_color=555555
+          options: username=phowdecayed&show_icons=true&include_all_commits=true&theme=light&bg_color=00000000&hide_border=true&title_color=1E1E1E&icon_color=1E1E1E&text_color=555555
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
