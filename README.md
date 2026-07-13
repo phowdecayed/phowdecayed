@@ -26,6 +26,10 @@ I find joy in the process of turning curiosity into comprehension. As a develope
 
 ### Analytics
 <p align="left">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats-dark.svg" alt="GitHub Stats" height="150" />
+  </picture>
 </p>
 
