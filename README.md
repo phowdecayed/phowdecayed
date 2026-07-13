@@ -26,6 +26,6 @@ I find joy in the process of turning curiosity into comprehension. As a develope
 
 ### Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=phowdecayed&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=1E1E1E&icon_color=1E1E1E&text_color=555555" alt="GitHub Stats" height="150" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
 </p>
 
